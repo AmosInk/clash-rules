@@ -1,0 +1,6 @@
+# 内容：自定义国内直连域名
+DOMAIN,discovery-announce-v6.syncthing.net
+DOMAIN,discovery-announce-v4.syncthing.net
+DOMAIN,lf9-dy-ncdn-tos.bytegecko.com
+DOMAIN,ecom5-normal-lq.ecombdapi.com
+DOMAIN-SUFFIX,mihome.com

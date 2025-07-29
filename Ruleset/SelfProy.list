@@ -1,0 +1,13 @@
+# 内容：自定义优先代理域名
+# DOMAIN-SUFFIX,syncthing.net
+# DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+# DOMAIN-SUFFIX,services.googleapis.cn
+# DOMAIN-SUFFIX,googleapis.cn
+# DOMAIN-SUFFIX,googleapis.com
+# DOMAIN-SUFFIX,play.googleapis.com
+# DOMAIN-SUFFIX,play-fe.googleapis.com
+# DOMAIN-SUFFIX,android.apis.google.com
+# DOMAIN-SUFFIX,android.clients.google.com
+# DOMAIN-SUFFIX,gstatic.com
+# DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+# DOMAIN-SUFFIX,clientservices.googleapis.com
