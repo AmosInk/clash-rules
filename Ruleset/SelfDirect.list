@@ -8,3 +8,4 @@ IP-CIDR,129.146.21.240/32,no-resolve
 #DOMAIN,orportainer.initbit.eu
 #DOMAIN,orvault.initbit.eu
 DOMAIN-SUFFIX,amap.com
+# DOMAIN,ssh.gitea.initbit.eu

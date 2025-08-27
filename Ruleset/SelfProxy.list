@@ -11,3 +11,4 @@
 # DOMAIN-SUFFIX,gstatic.com
 # DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 # DOMAIN-SUFFIX,clientservices.googleapis.com
+DOMAIN,ssh.gitea.initbit.eu
