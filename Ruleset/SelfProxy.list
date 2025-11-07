@@ -12,3 +12,4 @@
 # DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 # DOMAIN-SUFFIX,clientservices.googleapis.com
 DOMAIN,ssh.gitea.initbit.eu
+IP-CIDR,129.146.21.240/32,no-resolve

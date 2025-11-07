@@ -4,8 +4,8 @@ DOMAIN,discovery-announce-v4.syncthing.net
 DOMAIN,lf9-dy-ncdn-tos.bytegecko.com
 DOMAIN,ecom5-normal-lq.ecombdapi.com
 DOMAIN-SUFFIX,mihome.com
-IP-CIDR,129.146.21.240/32,no-resolve
-#DOMAIN,orportainer.initbit.eu
-#DOMAIN,orvault.initbit.eu
 DOMAIN-SUFFIX,amap.com
+# IP-CIDR,129.146.21.240/32,no-resolve
+# DOMAIN,orportainer.initbit.eu
+# DOMAIN,orvault.initbit.eu
 # DOMAIN,ssh.gitea.initbit.eu
