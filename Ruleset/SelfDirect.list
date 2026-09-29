@@ -1,11 +1,11 @@
-# 内容：自定义国内直连域名
-DOMAIN,discovery-announce-v6.syncthing.net
-DOMAIN,discovery-announce-v4.syncthing.net
-DOMAIN,lf9-dy-ncdn-tos.bytegecko.com
-DOMAIN,ecom5-normal-lq.ecombdapi.com
-DOMAIN-SUFFIX,mihome.com
-DOMAIN-SUFFIX,amap.com
-# IP-CIDR,129.146.21.240/32,no-resolve
-# DOMAIN,orportainer.initbit.eu
-# DOMAIN,orvault.initbit.eu
-# DOMAIN,ssh.gitea.initbit.eu
+payload:
+  - DOMAIN,discovery-announce-v6.syncthing.net
+  - DOMAIN,discovery-announce-v4.syncthing.net
+  - DOMAIN,lf9-dy-ncdn-tos.bytegecko.com
+  - DOMAIN,ecom5-normal-lq.ecombdapi.com
+  - DOMAIN-SUFFIX,mihome.com
+  - DOMAIN-SUFFIX,amap.com
+#  - IP-CIDR,129.146.21.240/32,no-resolve
+#  - DOMAIN,orportainer.initbit.eu
+#  - DOMAIN,orvault.initbit.eu
+#  - DOMAIN,ssh.gitea.initbit.eu
